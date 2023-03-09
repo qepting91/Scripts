@@ -7,7 +7,7 @@ This Jupyter notebook contains a collection of OSINT (Open-Source Intelligence) 
 - Usage
 - Contributing
 - License
-- 
+
 ## Requirements
 Python 3
 Jupyter Notebook
